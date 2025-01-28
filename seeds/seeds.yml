@@ -1,0 +1,6 @@
+seeds:
+  - name: codetest
+    config:
+      column_types:
+        id: varchar
+        name: varchar
